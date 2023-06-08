@@ -102,6 +102,7 @@ EC2, Nginx, Docker-compose, Jenkins
 ### 유예지
 
 - FE
+  - UI/UX
   - 자체 회원가입, 로그인 기능 구현
     - Redux-toolkit, Redux-persist로 전역상태관리
   - 마이페이지 및 내 정보 수정 기능 구현
